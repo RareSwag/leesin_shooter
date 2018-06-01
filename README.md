@@ -8,6 +8,4 @@ you lose shields if you do and if you lose all of your sheilds you lose
 
 ## Controls
 
-"spacebar" = shoots
-"a" = Move ship left
-"d" = Move ship right
+![Press Spacebar to shoot and "a" and "d" to move ](https://github.com/RareSwag/leesin_shooter/blob/master/keyboard.jpg "Controls for the game")
