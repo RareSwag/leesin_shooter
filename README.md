@@ -11,13 +11,15 @@ When you get hit you lose one shield and if you lose all your shields you die. T
 Download the game and click in the ".exe" file and it should run normally
 
 ## Backstory Of Characters
-1. _Lee Sin_
+1. **Lee Sin**
 
 Lee Sin was a man who came into the Shojun monastery as a boy. He was a very talented warrior and craved more and more power. Until one day where he disobeyed his tutor by going into the hidden archives and reading an ancient text that helped him call upon the spirit realm. One combat lesson he used this power as he kicked his instructer with the "Dragon Kick" and paralized him. Lee Sin left the monastery to use this power for the better good.
 
 #### [In Depth Lee Sin Lore](http://leagueoflegends.wikia.com/wiki/Lee_Sin/Backgroun)
 
-2. _Vel'Koz_
+
+
+2. **Vel'Koz**
 
 Vel'Koz is the first Void-spawn to emerge on Runeterra (Earth). He is a very cruel and no one can calculate his sentience. He seeks to research the living life on Runeterra and use this information to find any weaknesses that would help the void overtake the earth.
 #### [In Depth Vel'Koz Lore](http://leagueoflegends.wikia.com/wiki/Vel'Koz/Background)
