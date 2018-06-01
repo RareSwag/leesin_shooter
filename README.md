@@ -9,4 +9,4 @@ When you get hit you lose one shield and if you lose all your shields you die. T
 
 ## Controls
 
-![Press Spacebar to shoot and "a" and "d" to move ](https://github.com/RareSwag/leesin_shooter/blob/master/keyboard.jpg "Controls for the game")
+![Press Spacebar to shoot and "a" and "d" to move ](https://raw.githubusercontent.com/RareSwag/leesin_shooter/master/keyboard.jpg "Controls for the game")
