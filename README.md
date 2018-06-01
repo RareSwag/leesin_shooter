@@ -11,7 +11,7 @@ When you get hit you lose one shield and if you lose all your shields you die. T
 Download the game from the link below and click in the ".exe" file and it should run normally.
 
 
-[Link to download here](https://github.com/RareSwag/leesin_shooter/releases)
+#### [Link to download here](https://github.com/RareSwag/leesin_shooter/releases)
 
 ## Backstory Of Characters
 1. **Lee Sin**
