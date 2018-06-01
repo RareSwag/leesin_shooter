@@ -1,4 +1,4 @@
-# Lee Sin Shooter
+# **_Lee Sin Shooter_**
 This is a game I spent about 3-4 weeks making and fine tuning in python using pygame
 
 ## Instructions on How to Play
