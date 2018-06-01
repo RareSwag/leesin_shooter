@@ -1,10 +1,11 @@
 # Lee Sin Shooter
-A fun little ship shooting game I made
+This is a game I spent about 3-4 weeks making and fine tuning in python using pygame
 
 ## Instructions on How to Play
 
-Don't let Lee Sin get hit by the anime girls shot from Vel'koz
-you lose shields if you do and if you lose all of your sheilds you lose
+Don't let Lee Sin, your player, get hit by the girls shot from Vel'koz, the alien guys.
+When you get hit you lose one shield and if you lose all your shields you die. The average score is
+9,000 abd the highest score i've seen someone get is 17,000. GLHF
 
 ## Controls
 
